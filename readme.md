@@ -10,14 +10,13 @@ The project uses the following technologies:
 - Maven
 - H2 Database
 
-For a sample REST web service, see the [Sample REST Service - Movie API](https://www.github.com/zjcz/sample-rest-service) project.
 
 ## Setup
 
 To get started, clone the repository and navigate to the project directory
 
 ```bash
-git clone https://github.com/zjcz/sample-soap-service.git
+git clone https://github.com/Siva-Mula-03/Spring-SOAP-Movie-API.git
 cd sample-soap-service
 ```
 
